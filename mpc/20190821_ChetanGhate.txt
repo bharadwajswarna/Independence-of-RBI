@@ -1,0 +1,35 @@
+28. Since the last review, while there has been no change in the three month ahead inflation expectations of households (7.6%), there has been a decline of 20 bps in the level of one year ahead inflationary expectations (to 7.9%). Households’ current perception of inflation also shows no change at (6.6%). What is noteworthy is that the proportion of respondents (both in the three month and one year buckets) expecting inflation to be less than 6% remains high. The moderation in the one year ahead level of inflationary expectations has happened in spite of rising food inflation in the past couple of months suggesting better anchoring of inflationary expectations.
+
+29. Benign inflation conditions continue to be manifested in CPI-headline (3.2% in June) although it edged up marginally from 3.0% in May. Average inflation in Q1 FY 19-20 (3.1%) is more or less in line with RBI projections made in June (3 percent).
+
+30. Food inflation however has inched up for the seventh consecutive month in June, and food momentum has picked up in April-June. As mentioned in the last Statement, I will remain watchful of how strong the spillovers are from a cyclical seasonal movement (in certain food sub-groups such as vegetables). The realization of such risks could eliminate the “inflation shortfall” currently being projected relative to the medium run target of 4%.
+
+31. In contrast to food inflation, there has been a moderation in inflation ex food and fuel, which continues to be flat at 4.1% in June. The sequential momentum in inflation excluding food and fuel also remains weak. I expect the pick up in economic growth however to put a “floor” on inflation ex food and fuel.
+
+32. Reflecting benign current and one year ahead inflation conditions in the last several months, the MPC has cut the policy rate by 75 bps (between February 2019 – June 2019) to close the output gap. I will call this our level policy. Because of previous downward revisions in our inflation and growth projections, our change in stance (in June to accommodative from neutral), and the tone of our resolution and minutes, there has also been a substantial flattening and shifting down of the yield curve. I will call this our slope policy. For instance, the 10 year government bond yield on July 22, 2019 was 6.42 per cent compared to 7.29 per cent on May 20, 2019. Likewise, the 91-day T-Bill rate on July 22 was 5.72% per cent compared to 6.33% per cent on May 20, 2019. Yield spreads on 5 year AAA rated corporate bonds over the 5 year G-Sec yield however increased during mid June and have remained high since then reflecting liquidity problems faced by a few players in the NBFC sector. Taken in unison, our level policy and slope policy already reflect substantial financial accommodation to address the sharp decline in economic growth (from 8.0% in Q1 to 5.8% in Q4) witnessed through FY 2019.
+
+33. I should add that the MPC has enacted both “insurance-cuts” (to address current and future downside risks to growth) and “data-dependent” cuts (reflecting the evolving growth-inflation risk picture) in the February-June window.
+
+34. The question then is: what incremental information since the last review warrants a need for further accommodation?
+
+35. There are a few considerations here.
+
+36. On the external front, growth in the global economy remains tepid. Trade tensions have worsened leading to some loss in our net export growth.
+
+37. Domestically, a variety of growth indicators have weakened further.
+
+38. Based on a sample of 843 manufacturing companies, the seasonally adjusted capacity utilization has weakened to 74.5%, which is marginally lower than the long term average and the last few readings. Demand conditions in the manufacturing sector – based on the Reserve Bank’s analysis of early corporate results of listed companies – weakened in nominal terms in Q1: 2019-2020 relative to Q4: 2018-2019. Consumer driven industries also exhibit sluggish demand, with a piling up of inventories.
+
+39. After the March 2019 surge in consumer confidence, this index has declined thereafter with the current situation index back in pessimistic territory. The Reserve Bank’s Business Expectation Index (BEI) expects to lose traction in Q2 2019:2020. IIP growth moderated to 3.1% in May compared to 4.3%. On a positive side though, consumer durable growth moved into positive territory (0.1%); capital goods also moved into positive territory (2.3%); while non durables increased by 7.7%. The output gap has also opened further up since the last review.
+
+40. What is telling is that large swings in the Indian business cycle are still not a thing of the past, despite the adoption of inflation targeting in India.
+
+41. I continue to worry that fiscal imbalances embodied in our large public sector borrowing requirement (roughly 8-9% of GDP) will lead to detrimental outcomes for the economy. While a fiscal glide path should be seen as a limit, once in place, it becomes a target. Convergence to the limit happens, and a form of “creative accounting” kicks in. Going forward, policy coordination between monetary and fiscal policy will be crucial for a healthier and more durable growth-inflation mix in the economy. For instance, if agents in the economy expect that the government will disregard the level of debt but the central bank follows the Taylor principle (i.e., insists that inflation is not allowed to rise), then the economy can go through a spiral of lower output, higher inflation, and higher debt.
+
+42. I will carefully watch the evolving growth-inflation risk picture. Estimates of economic growth in India have unfortunately been subject to a fair degree of floccinaucinihilipilification. Notwithstanding this, growth is likely to pick up from Q2-Q3: 2019-2020.
+
+43. It should also be highlighted that there has been inadequate monetary transmission given the quantum of past rate cuts: the WALR on fresh rupee loans in the banking system has come down by only 29 bps despite the MPC cutting rates by 75 bps in the February-June window. By a large cut (35 bps) I feel we will be burning through monetary policy space without much to show for it. While the real economy needs some support, we should wait for more transmission to happen.
+
+44. Given the evolving growth-inflation risk picture, monetary policy should be used judiciously.
+
+45. I vote to reduce the policy rate by 25 bps. I also vote to retain the stance as accommodative.

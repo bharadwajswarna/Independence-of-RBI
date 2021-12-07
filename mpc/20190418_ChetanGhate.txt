@@ -1,0 +1,33 @@
+33. Since the last review, the continual decline in both 3 month and 1 year ahead inflationary expectations of households is encouraging. Households’ current inflation perception is below 7%. The percentage of respondents expecting inflation below 6% for 3 month and 1 year ahead horizons has also been increasing over different survey rounds. It should be noted that although the 1 year ahead inflationary expectation declined by 40 bps to 8.1% compared to the previous round it is still only 50 bps below the March 2018 value (8.6%).
+
+34. The elevated level of inflation ex food and fuel continues to be a concern, although I am more sanguine about its trajectory after the last few prints. My major concern with inflation ex food and fuel is that sequential gains continue to be strong. Inflation ex food fuel will only be buttressed by the rise in crude prices (USD 68.3 on April 2 versus USD 62.2 on February 7, equivalent to a 9.8% increase since the last review). Crude prices have also remained resilient despite lower projections for global growth. Oil is not a “Hotelling” good (constraints in different locations prevent supply responses that would otherwise help in mitigating overall price rises). This makes inflation management challenging.
+
+35. Food prices continue to be subdued although the extent of disinflation is falling. The unusually low summer uptick in food inflation (3.2%) combined with a sharp decline in winter prices in FY 19 has kept food prices unexpectedly low. The shift in momentum of food in the last couple of prints indicates that low food inflation has possibly reached a nadir. I re-iterate my concern from the last review: RBI’s projections for Q4 2019-2020 headline inflation continue to be on the lower side because of an assumed low momentum for food. If vegetable prices rebound in April-August in a stronger way, RBI’s projections will be easily breached. What compounds problems this time is the rise in the price of crude, although there has been an off-setting impact because of the nominal appreciation of the rupee (3.3% since the last review). It wouldn’t hurt to wait for a couple of months to watch the momentum on food inflation and other variables before taking a call on further rate cuts.
+
+36. The major question in this review is whether there is sufficient accumulation of downside risks on growth to warrant a monetary policy response. Are the drivers of growth fading?
+
+37. My sense is that that the business cycle depicts “early cycle” weakness. At this juncture, I see sub 7% growth rates confined possibly to just two quarters: Q3 and Q4 FY 19. These will be our “kitchen-sink” quarters (i.e., quarters where the most adverse outcomes to the economy are realized). Looking at the momentum on GDP growth (Q-o-Q SAAR), there has also been an uptick in Q3 FY 19.
+
+38. Various RBI surveys don’t depict an economy in collapse. PMIs in Manufacturing and Services continue to be in expansion zone for several months, capacity utilization in the manufacturing sector has gone up sequentially in the last four quarters (76.1% seasonally adjusted in Q3), adjusted non-food credit grew by 14.8% in March 2019 compared with 11.3% in the last fiscal year, and there has been a sharp uptick in consumer confidence (a positive “sentiment shock”) with the future expectation index at an all-time high.
+
+39. Notwithstanding this, what is worrying is the performance of private final consumption expenditures (PFCE), about 59% percent of GDP. A variety of high frequency indicators look fairly weak which nowcast a loss in growth momentum.
+
+40. What confounds this however is the fairly robust numbers for PFCE growth (8.4% Q3 FY 19 and 9.8% Q2 FY 19), (although admittedly, this is partly due to the outsized role that livestock had in the PFCE numbers for Q3 FY 19). Looking at data from April 2017 – January 2019 for consumer durables, out of 22 months, only 6 months showed negative growth. For non-durables, only 2 months out of 22 months showed negative growth. Consumer durables growth in Q2 was 8.1% in FY 19, and 6.0% in Q3. Consumer non-durables growth was 6.1% in Q2 FY 19 dropping to 4.6% in Q3 FY 19.
+
+41. Various consumption indicators therefore look mixed.
+
+42. In contrast, GFCF (gross fixed capital formation) has risen over the past few quarters to 33.1% of GDP in Q3: 2018-2019. RBI’s study on “Private Corporate Investment in India: Slow Recovery Underway” and enterprise surveys depict planned capex showing a turn-around in 2018-2019, with inventory ratios moving down in manufacturing.
+
+43. Somewhat worrying though is that the machine and equipment component of GFCF is showing signs of stress.
+
+44. In terms of consumption-investment linkages, somewhat more concerning is some preliminary econometric evidence, using data from 1996: Q2 to 2018: Q4 that PFCE growth (quarter on quarter, seasonally adjusted) drives GFCF growth with a lag of two quarters. Simple Granger causality tests also suggest that consumption demand drives investment demand and not vice versa. This suggests that subdued consumption growth may cause investment growth to taper, signs of which should be carefully watched.
+
+45. I continue to view the elevated levels of the combined fiscal deficit and the on-going thrust towards competitive populism as jeopardizing the durability of inflation in the medium term. This should be carefully watched.
+
+46. On the external front, while India’s overall growth rates have always been somewhat immune to our export performance, I view the muted performance of exports and imports over the last four months with concern.
+
+47. Given the above reasons, maintaining status quo on rates at the current juncture would be consistent with sustainable growth in the economy and achieving the inflation target over the medium-term. Contrary to some of my colleagues in the MPC, I feel that frequent changes in policy rates and stance runs the risk of introducing uncertainty and volatility because of our own actions.
+
+48. I will, however, carefully watch the incoming growth-inflation data and am open to a reassessment of my views.
+
+49. I also vote to retain a neutral stance.
